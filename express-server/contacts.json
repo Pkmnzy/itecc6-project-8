@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "phone": "234-567-8901",
+    "email": "sarah.j@example.com",
+    "address": "456 Oak Ave, Metropolis",
+    "relationship": "Work",
+    "notes": "Project manager."
+  },
+  {
+    "id": 3,
+    "name": "fff",
+    "phone": "345-678-9012",
+    "email": "mchen@example.com",
+    "address": "789 Pine Rd, Gotham",
+    "relationship": "Family",
+    "notes": "Cousin."
+  },
+  {
+    "id": 4,
+    "name": "Emily Taylor",
+    "phone": "456-789-0123",
+    "email": "etaylor@example.com",
+    "address": "321 Maple St, Star City",
+    "relationship": "Friend",
+    "notes": "College friend."
+  },
+  {
+    "id": 5,
+    "name": "Robert Wilson",
+    "phone": "567-890-1234",
+    "email": "rwilson@example.com",
+    "address": "654 Elm St, Central City",
+    "relationship": "Work",
+    "notes": "Works in IT department."
+  },
+  {
+    "name": "JOSHUA REYNOSO ESPLANA",
+    "email": "joshesplana00@gmail.com",
+    "phone": "09760460420",
+    "address": "manalansan street",
+    "relationship": "Work",
+    "notes": "fefe",
+    "id": 1747593114062
+  }
+]

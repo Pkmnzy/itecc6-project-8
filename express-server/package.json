@@ -1,0 +1,20 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Backend server for Contact Manager using Express and mock JSON data.",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "node index.jsx",
+    "dev": "nodemon index.jsx"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json2csv": "^5.0.7",
+    "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
